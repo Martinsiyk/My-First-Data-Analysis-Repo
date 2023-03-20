@@ -5,11 +5,11 @@
 
 
 ----
-# Data Sourcing:
+# Data Sourcing
 
 
 ----
-# Data Transformation: 
+# Data Transformation
 
 
 ------
